@@ -1,6 +1,3 @@
-Here's your updated **README.md** with **Nucleus Sampling** included:  
-
----
 
 # **AI-Powered Caption Generator**  
 
